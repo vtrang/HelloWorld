@@ -1,4 +1,5 @@
 'use strict';
 var f = function foo() {
-        console.log('hello world');
+        console.log('goodbye, cruel world');
+
     };
